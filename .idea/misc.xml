@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mamon Aburawi/.gradle/wrapper/dists/gradle-7.0.2-bin/caches/transforms-3/955f0fad123819d939ed7155f5610b4c/transformed/AppIntro-6.2.0/res/layout/appintro_fragment_intro.xml" value="0.2351851851851852" />
+        <entry key="..\:/Users/Mamon Aburawi/.gradle/wrapper/dists/gradle-7.0.2-bin/caches/transforms-3/955f0fad123819d939ed7155f5610b4c/transformed/AppIntro-6.2.0/res/layout/appintro_intro_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mamon Aburawi/.gradle/wrapper/dists/gradle-7.0.2-bin/caches/transforms-3/955f0fad123819d939ed7155f5610b4c/transformed/AppIntro-6.2.0/res/layout/appintro_intro_layout2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mamon Aburawi/Desktop/AppIntro/app/src/main/res/drawable/back_slide5.xml" value="0.1085" />
+        <entry key="..\:/Users/Mamon Aburawi/Desktop/AppIntro/app/src/main/res/layout/activity_into.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mamon Aburawi/Desktop/AppIntro/app/src/main/res/layout/intro_slide1.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
